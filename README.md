@@ -11,7 +11,8 @@ This project was developed for CSE 564: Visual Analytics at Stony Brook Universi
 - Seamless storytelling in a scroll-free dashboard
 
 ---
-![Food Desert Dashboard]([images/dashboard.png](https://github.com/1216-dev/Invisible-Lines/blob/main/dashboard.png))
+![Food Desert Dashboard](https://raw.githubusercontent.com/1216-dev/Invisible-Lines/main/dashboard.png)
+
 
 ## 🎯 Problem Statement
 Millions of Americans live in "food deserts," with limited access to nutritious food. These areas often exhibit high obesity rates, child poverty, food insecurity, and chronic illness. Our goal was to:
